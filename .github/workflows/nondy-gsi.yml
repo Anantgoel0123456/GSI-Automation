@@ -3,7 +3,7 @@ name: Building GSI..
 on: push
 
 env:
-  ROM_URL: https://tdrive.elytra8.workers.dev/20200916163326-mobius-deltaota_31de02108f3e0a5c62d7c56552eaa3dc.zip
+  ROM_URL: https://little-star-00e6.iron-man-2.workers.dev/xiaomi.eu_multi_MI9_21.9.22_v12-11.zip
   ROM_NAME: MIUId
   ZIP_NAME: Miui-test-blackshark
   TZ: Asia/Kolkata
