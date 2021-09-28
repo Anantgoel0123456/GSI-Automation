@@ -3,9 +3,9 @@ name: Building GSI..
 on: push
 
 env:
-  ROM_URL: https://little-star-00e6.iron-man-2.workers.dev/xiaomi.eu_multi_MI9_21.9.22_v12-11.zip
+  ROM_URL: https://little-star-00e6.iron-man-2.workers.dev/0:/xiaomi.eu_multi_MI9_21.9.22_v12-11.zip
   ROM_NAME: MIUId
-  ZIP_NAME: Miui-test-blackshark
+  ZIP_NAME: Mi9-test
   TZ: Asia/Kolkata
 jobs:
   build:
